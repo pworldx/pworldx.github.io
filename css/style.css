@@ -16,7 +16,7 @@ html {
 }
 
 #main {
-    background-image: url(../images.png);
+    background-image: url(../images.jpg);
     background-size: cover;
     align-items: center;
     display: flex;
